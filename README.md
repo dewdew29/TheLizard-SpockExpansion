@@ -13,3 +13,6 @@ Here are the Rules :-
 • Paper disproves Spock
 • Spock vaporizes Rock
 • (and as it always has) Rock crushes Scissors
+<br>
+
+The Link for this Awesome Game is : https://dewdew29.github.io/TheLizard-SpockExpansion.github.io/
